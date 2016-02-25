@@ -26,10 +26,6 @@ This document describes how to set up NGI Stockholms TruSeq Stranded Total RNA m
 ```
 all_labware_liquids.vzp
 stranded_RNA_1.3.5.pro
-resources/1313497192_media_controls_light_pause.png
-resources/1313497517_media_controls_light_play.png
-resources/clear_inventory.bat
-resources/clear_inventory.sql
 ```
 
 ## Installation ##
