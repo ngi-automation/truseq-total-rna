@@ -48,7 +48,7 @@ and extract to `C:\VWorks Workspace\Protocol Files`. Rename the resulting `truse
 Use the import feature in VWorks from `File › Import`in the toolbar and select the `all-labware-liquids.vzp` file included. See the [VWorks Knowledge Base][import] for more information.
 
 #### Device files ####
-Device files and profiles are system specific and will not be provided. The "standard" Bravo configuration is used in the ThruPLEX protocols:
+Device files and profiles are system specific and will not be provided. The "standard" Bravo configuration is used in the TruSeq RNA protocols:
 
 ##### Standard configuration #####
 Position | Type | Part#
