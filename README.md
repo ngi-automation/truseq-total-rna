@@ -12,13 +12,15 @@
 This document describes how to set up NGI Stockholms TruSeq Stranded Total RNA method for the Agilent NGS Workstation. This protocol is used to prepare up to 96 samples with Illumina’s TruSeq Stranded Total RNA kit.
 
 ## Requirements ##
-- Agilent NGS Workstation :warning: <i><b>Option B only</i></b>
-- Consumables
-   - Eppendorf twin.tec 96 PCR plate (Eppendorf, cat# 0030 128.672 (int); 951020460 (US))
-   - Nunc deepwell 1.3 mL plate (Thermo Scientific, cat# 260251)
-   - ABgene 2.2 mL storage plate Mk.II (Thermo Scientific, cat# AB-0933)
-- Labware definitions*
-- Liquid classes definition*
+
+Item                                 | Note
+:------------------------------------|:---------
+Agilent NGS Workstation              | :warning: Option B configuration only
+Eppendorf twin.tec 96 PCR plate      | Eppendorf, cat# 0030 128.672 (int); 951020460 (US)
+Nunc deepwell 1.3 mL plate           | Thermo Scientific, cat# 260251
+ABgene 2.2 mL storage plate Mk.II    | Thermo Scientific, cat# AB-0933
+Labware definitions                  | Provided in `all_labware_liquids.vzp`
+Liquid classes definition            | Provided in `all_labware_liquids.vzp`
 
 \* provided in `all_labware_liquids.vzp`
 
@@ -92,8 +94,8 @@ Automation protocols made available by the National Genomics Infrastructure Stoc
 *TruSeq* and *TruSeq Stranded Total RNA* are trademarks owned by Illumina, Inc. (San Diego, CA 92122 US).
 
 [email]: mailto:joel.gruselius@scilifelab.se "E-mail author"
-[ngi]: https://portal.scilifelab.se/genomics/ "NGI Stockholm"
-[scilife]: http://www.scilifelab.se/platforms/ngi/ "SciLifeLab"
+[ngi]: https://www.scilifelab.se/facilities/ngi-stockholm/ "NGI Stockholm"
+[scilife]: https://www.scilifelab.se "SciLifeLab"
 [zip]: https://github.com/ngi-automation/truseq-total-rna/archive/master.zip
 [import]: http://www.velocity11.com/techdocs/AutomationSolutionsKB/vworks4_ug/11_Troubleshooting.15.03.html#2005458
 [catalog]: http://www.chem.agilent.com/Library/catalogs/Public/5991-0369EN.pdf
